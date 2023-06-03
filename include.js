@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'meziszem',
+    pageLink: './Art/meziszem/index.html',
+    imageLink: './Art/meziszem/box animation.gif',
+    author: 'mez',
+    githubLink: 'https://github.com/meziszem'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
